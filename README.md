@@ -1,0 +1,2 @@
+# soincoin
+list of solutions
